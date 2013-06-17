@@ -1,0 +1,42 @@
+.rightCol
+{
+	display:inline-block;
+	width:667px;
+}
+
+.leftCol
+{
+	display:inline-block;
+	width:189px;
+	vertical-align:top;
+	padding:0 37px 0 0;
+	margin:0 37px 0 0;
+	border-right:1px solid #DDD;
+}
+.leftCol .panel
+{
+	font-size:12px;
+	padding:10px 5px;
+	
+}
+.leftCol .panel h4
+{
+	color:#C80000;
+}
+
+.recentContainer article 
+{
+	border-bottom:1px dashed #DDD;
+	margin-bottom:30px;
+}
+
+.recentContainer article footer
+{
+	font-size: 10px;
+	margin-bottom:10px;
+}
+
+.recentContainer article footer a
+{
+	color:#C80000;
+}
